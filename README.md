@@ -1,3 +1,7 @@
+Fork including https://github.com/mattn/go-shellwords/pull/39
+
+---
+
 # go-shellwords
 
 [![codecov](https://codecov.io/gh/mattn/go-shellwords/branch/master/graph/badge.svg)](https://codecov.io/gh/mattn/go-shellwords)
